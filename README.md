@@ -2,3 +2,4 @@
 Sarah getting to know git
 feature branch created
 new update on feature branch
+second update in feature branch
